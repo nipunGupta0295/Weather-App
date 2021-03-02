@@ -13,6 +13,7 @@ const weather = {};
 weather.temperature = {
   unit: "celsius"
 };
+// start the code
 let celsius = false;
 //const changeS = document.querySelector(".temperature-value p span");
 function changeScale(){
